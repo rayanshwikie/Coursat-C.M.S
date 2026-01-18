@@ -11,7 +11,7 @@ __________________________________________________
 
 STEPS :
 1. copy all the files into the "C:\wamp64\www\" folder
-2. import the database inside PHPMyAdmin
+2. import the .sql file found at "DATABASE\" inside PHPMyAdmin
 
 Admin Account :
 USERNAME : admin@coursat.com 
