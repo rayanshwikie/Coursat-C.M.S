@@ -1,1 +1,20 @@
+__________________________________________________
+   _____ ____  _    _ _____   _____      _______  
+  / ____/ __ \| |  | |  __ \ / ____|  /\|__   __| 
+ | |   | |  | | |  | | |__) | (___   /  \  | |   
+ | |   | |  | | |  | |  _  / \___ \ / /\ \ | |   
+ | |___| |__| | |__| | | \ \ ____) / ____ \| |   
+  \_____\____/ \____/|_|  \_\_____/_/    \_\_|   
+__________________________________________________
 
+!!!You wil need a Local sever(preferably WAMP)!!!
+
+STEPS :
+1. copy all the files into the "C:\wamp64\www\" folder
+2. import the database inside PHPMyAdmin
+
+Admin Account :
+USERNAME : admin@coursat.com 
+PASSWORD : 1234 
+
+                                                 
