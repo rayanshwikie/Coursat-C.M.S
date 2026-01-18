@@ -1,0 +1,14 @@
+
+.navtex{
+        color:rgb(255, 255, 255);
+        text-decoration: none;
+        transition: all 0.2s;
+                      
+                      
+    }
+.navtex:hover{
+                 
+        color: rgb(47, 175, 255);
+            }
+                      
+.footer__link{text-decoration: none;}
